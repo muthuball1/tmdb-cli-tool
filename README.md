@@ -45,4 +45,4 @@ Title: Power Ballad
 Released: 2026-05-18
 Rating: 7.1
 Overview: When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.
--------------------------```
+-------------------------
