@@ -1,4 +1,3 @@
-# TMDB CLI tool
 
 # TMDB CLI Tool
 
